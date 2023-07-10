@@ -13,6 +13,7 @@ Files implemented: _all in Board.java_
   transpose()
   flipRows() 
   makeMove() 
+  
 
 to compile: javac -d bin src/game/*.java
 
