@@ -1,5 +1,5 @@
 # Play-2048
-Data Structures Assignment: **2D Arrays Based Project**
+Data Structures Assignment: _2D Arrays Based Project_
 
 The objective of the game is to merge tiles with numbers until you reach a tile with a value of 2048. When two tiles with the same number touch, they combine to form a new tile with double the value. 
 
