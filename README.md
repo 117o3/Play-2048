@@ -2,6 +2,7 @@
 Data Structures Assignment: 2D Arrays Based Project
 
 The objective of the game is to merge tiles with numbers until you reach a tile with a value of 2048. When two tiles with the same number touch, they combine to form a new tile with double the value. 
+
 --------------------------------------------------------------------------
 Files implemented: _all in Board.java_
 
@@ -16,6 +17,7 @@ Files implemented: _all in Board.java_
 to compile: javac -d bin src/game/*.java
 
 to execute: java -cp bin game.AnimatedDriver OR java -cp bin game.TextDriver
+
 --------------------------------------------------------------------------
 Programming Skills Utilized: _only mentioning new skills_
 
