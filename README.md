@@ -20,7 +20,7 @@ to compile: javac -d bin src/game/*.java
 to execute: java -cp bin game.AnimatedDriver OR java -cp bin game.TextDriver
 
 --------------------------------------------------------------------------
-Programming Skills Utilized: _only mentioning new skills_
+Programming Skills Utilized: _only mentioning new skills NOT in previous methods_
 
 updateOpenSpaces()
   - Object-Oriented Programming (OOP): create & initalize instance variables
